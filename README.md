@@ -143,10 +143,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 Feel free to reach out for any queries or collaboration opportunities!
 
-- **Connect:** [link.minianon.in/tusharbhardwaj](https://link.minianon.in/tusharbhardwaj)
-- **PortFolio:** [PortFolio](https://minianon.in/)
-- **Connect 1:1** - [Let's Connect](https://topmate.io/tusharbhardwaj)
-- **LinkedIn:** [Tushar Bhardwaj](https://www.linkedin.com/in/bhardwajtushar2004)
-- **GitHub:** [Tushar Bhardwaj](https://github.com/minianon)
-- **Support:** [GitHub Sponsors](https://github.com/sponsors/minianon) · [Buy me a chai](https://buymeachai.ezee.li/minianon)
-- **Email:** tusharbhardwaj2617@gmail.com
+**Find me everywhere →** [link.minianon.in/tusharbhardwaj](https://link.minianon.in/tusharbhardwaj)
+
+If my work helps you, you can support it on [GitHub Sponsors](https://github.com/sponsors/minianon) · [Buy me a chai](https://buymeachai.ezee.li/minianon).
